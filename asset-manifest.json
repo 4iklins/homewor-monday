@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/homewor-monday/static/css/main.073c9b0a.css",
+    "main.js": "/homewor-monday/static/js/main.7dd69607.js",
+    "static/js/787.177e23c2.chunk.js": "/homewor-monday/static/js/787.177e23c2.chunk.js",
+    "index.html": "/homewor-monday/index.html",
+    "main.073c9b0a.css.map": "/homewor-monday/static/css/main.073c9b0a.css.map",
+    "main.7dd69607.js.map": "/homewor-monday/static/js/main.7dd69607.js.map",
+    "787.177e23c2.chunk.js.map": "/homewor-monday/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7dd69607.js"
+  ]
+}
